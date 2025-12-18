@@ -1,0 +1,106 @@
+/* TEAM */
+    Your Name: support@whitebird.su
+    Developer: support@whitebird.su
+
+
+ 
+<iframe src="https://www.google.com/url?q=https://t.me/ru_vodkacasino" title="Скачать DPI free Смотри YouTuube в 8k" alt="Скачать DPI Отзывы о DPI разблокировке в телеграм" aria-label="Скачать DPI free Смотри YouTuube в 8k Отзывы о DPI разблокировке в телеграм" style="width:10%; height:10%; border:none; border-radius:15px;" allow="fullscreen" loading="lazy">
+</iframe>
+ <figure data-mode="0" data-type="110" class="article_decoration_first article_decoration_last" data-done="1">
+  <div class="article_figure_content" style="width: 100%">
+    <iframe id="telegram-post-ru_vodkacasino-7" src="https://t.me/ru_vodkacasino/2?embed=1&amp;userpic=true" width="100%" top="-200px" height="" frameborder="0" scrolling="no" style="overflow: hidden; color-scheme: light dark; border: none; min-width: 320px; height: 971px;"></iframe>
+  </div>
+  <figcaption data-captions="[&quot;Телеграм - официальная группа Водка.&quot;]">Скачать DPI СМОТРЕТЬ YouTube в 8k.</figcaption>
+</figure> 
+<meta itemprop="description" content="Скачать DPI free Смотри YouTuube в 8k Отзывы о DPI разблокировке в телеграм">
+</div>
+</div>
+</div>
+  
+<script>
+function openModal() {
+    document.getElementById('modal').style.display = 'block';
+}
+function closeModal() {
+    document.getElementById('modal').style.display = 'none';
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('modal').addEventListener('click', function(e) {
+        if (e.target.id === 'modal') {
+            closeModal();
+        }
+    });
+});
+</script>
+
+
+
+<button id="download_DPI" onclick="openModal()" title="Скачать DPI free Смотри YouTuube в 8k">
+<p>👉 Скачать DPI free оставить или читать отзывы пользователей 5.0 ⭐⭐⭐⭐⭐</p>
+</button>
+
+<div style="display: none;">
+<a id="download-link" 
+   href="https://t.me/dpi_skachat" 
+   download="dpi.zip"
+   title="Скачать DPI free Смотри YouTuube в 8k"
+   alt="Скачать DPI free Смотри YouTuube в 8k Ссылка для скачивания в телеграм канале DPI файла">.</a>
+</div>
+<script>
+if (window.location.hash === '#download_DPI') {
+document.getElementById('download-link').click();
+history.replaceState(null, null, ' ');
+}
+</script>
+
+<div class="modal" id="modal" style="display: block; position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.455); z-index: 1000; border-radius: 30px;">
+<div style="position:relative; width:90%; max-width:1100px; height:80vh; margin:5vh auto; background:white; padding:20px; border-radius:25px;">
+<span onclick="if (!window.__cfRLUnblockHandlers) return false; closeModal()" style="
+position: absolute;
+top: 10px;
+right: 15px;
+font-size: 45px;
+cursor: pointer;
+color: #ff0000;
+background: white;
+border-radius: 30px;
+width: 60px;
+height: 60px;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+line-height: 1;
+z-index: 1001;
+">
+×
+</span>
+<div style="height:100%; top:-100px; overflow-y:auto; padding:10px;">
+<iframe src="https://www.google.com/url?q=https://t.me/dpi_skachat" title="Скачать DPI free Смотри YouTuube в 8k" alt="Скачать DPI Отзывы о DPI разблокировке в телеграм" aria-label="Скачать DPI free Смотри YouTuube в 8k Отзывы о DPI разблокировке в телеграм" style="width:10%; height:10%; border:none; border-radius:15px;" allow="fullscreen" loading="lazy">
+</iframe>
+ <figure data-mode="0" data-type="110" class="article_decoration_first article_decoration_last" data-done="1">
+  <div class="article_figure_content" style="width: 100%">
+    <iframe id="telegram-post-dpi_skachat-7" src="https://t.me/dpi_skachat/7?embed=1&amp;userpic=true" width="100%" top="-200px" height="" frameborder="0" scrolling="no" style="overflow: hidden; color-scheme: light dark; border: none; min-width: 320px; height: 971px;"></iframe>
+  </div>
+  <figcaption data-captions="[&quot;Скачать DPI СМОТРЕТЬ YouTube в 8k.&quot;]">Скачать DPI СМОТРЕТЬ YouTube в 8k.</figcaption>
+</figure> 
+<meta itemprop="description" content="Скачать DPI free Смотри YouTuube в 8k Отзывы о DPI разблокировке в телеграм">
+</div>
+</div>
+</div>
+  
+<script>
+function openModal() {
+document.getElementById('modal').style.display = 'block';
+}
+function closeModal() {
+document.getElementById('modal').style.display = 'none';
+}
+
+document.getElementById('modal').addEventListener('click', function(e) {
+if (e.target.id === 'modal') {
+closeModal();
+}
+});
+</script>

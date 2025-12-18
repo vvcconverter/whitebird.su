@@ -1,0 +1,11 @@
+# Security contact information
+Contact: support@whitebird.su
+
+# Encryption
+Preferred-Languages: en
+
+# Encryption
+Preferred-Languages: ru
+
+# Policy
+Policy: https://whitebird.su/privacy_policy.html

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whitebird.su/sitemap.xml
