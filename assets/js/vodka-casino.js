@@ -1,4 +1,5 @@
 function executeRun() {
-    const url = "https://whitebird.io/signup?refid=Xkjxx";
+    const url = "https://www.youtube.com/@scamword";
     window.location.href = url;
+
 }
